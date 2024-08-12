@@ -9,6 +9,7 @@ Let's connect!
     <a href="https://www.malt.fr/profile/benoitboidin" target="_blank">
         <img src="https://img.shields.io/badge/Malt-FF5630?style=for-the-badge&logo=malt&logoColor=white" alt="Malt">
     </a>
+    <br><br>
     <a href="http://benoitboidin.com" target="_blank">
         My website (still building, I need to finish my memoire first.)
     </a>
