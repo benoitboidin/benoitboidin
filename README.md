@@ -1,4 +1,4 @@
-# Junior developer
+# Junior ML developer
 
 Let's connect! 
 
@@ -9,10 +9,8 @@ Let's connect!
     <a href="https://www.malt.fr/profile/benoitboidin" target="_blank">
         <img src="https://img.shields.io/badge/Malt-FF5630?style=for-the-badge&logo=malt&logoColor=white" alt="Malt">
     </a>
-    <a href="https://github.com/benoitboidin" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <a href="http://benoitboidin.com" target="_blank">
+        My website (still building, I need to finish my memoire first.)
     </a>
-    <a href="https://gitlab.com/your-username" target="_blank">
-        <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
-    </a>
+    
 </p>
