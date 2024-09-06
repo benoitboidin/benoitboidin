@@ -12,6 +12,7 @@ Let's connect!
     <br><br>
     <a href="http://benoitboidin.com" target="_blank">
         My website (still building, I need to finish my memoire first.)
-    </a>
+Finished my memoire, still not building website (looking for job)...
+  </a>
     
 </p>
