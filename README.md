@@ -11,8 +11,7 @@ Let's connect!
     </a>
     <br><br>
     <a href="http://benoitboidin.com" target="_blank">
-        My website (still building, I need to finish my memoire first.)  <br>
-        Finished my memoire, still not building website (looking for job)...
+        My portfolio website, powered by <a href="https://github.com/gohugoio/hugo" target="_blank">Hugo</a>.
   </a>
     
 </p>
