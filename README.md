@@ -16,4 +16,4 @@ Let's connect!
     
 </p>
 
-<a href="https://benoitboidin.com">My website.</a>
+<a href="https://benoitboidin.com">My portfolio, created with Hugo framework! .</a>
