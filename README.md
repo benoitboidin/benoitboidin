@@ -16,7 +16,7 @@ Let's connect!
     
 </p>
 
-<a href="https://benoitboidin.com">My portfolio, created with Hugo framework! .</a>
+<a href="https://benoitboidin.com">My portfolio, created with Hugo framework!</a>
 
 Tech stack : 
 
