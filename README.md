@@ -1,5 +1,10 @@
 # Junior ML developer
 
+Avec une LICENCE de statistiques et un MASTER d'informatique, je possède une combinaison unique d'aptitudes.
+Pendant mon master, j'ai travaillé dans un laboratoire (LaBRI) sur les techniques de traitement du langage naturel.
+Pendant mon stage de cinq mois, j'ai élaboré une pipeline de vision par ordinateur à partir de zéro. 
+Je maîtrise Python (PyTorch, TensorFlow, FiftyOne, YAKE...) et SQL.
+
 Let's connect! 
 
 <p align="left">
