@@ -46,3 +46,5 @@ Tech stack :
         alt="OpenVINO"/>
         And more!
 </div>
+
+et un petit commit pour mon contribution graph. 
