@@ -44,7 +44,6 @@ Tech stack :
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROGUxOHUM2cE5sfObDDVhD351uBOwkZ-OcEw&s" 
         style="height:50px;box-shadow: 0px 0px 20px rgba(251, 66, 70, 0.3); boder-radius:10px;"
         alt="OpenVINO"/>
+        <br>
         And more!
 </div>
-
-et un petit commit pour mon contribution graph. 
