@@ -45,5 +45,5 @@ Tech stack :
         style="height:50px;box-shadow: 0px 0px 20px rgba(251, 66, 70, 0.3); boder-radius:10px;"
         alt="OpenVINO"/>
         <br>
-        And more!
+        And more (always learning) !
 </div>
