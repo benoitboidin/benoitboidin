@@ -20,29 +20,10 @@ Let's connect!
     
 </p>
 
-<a href="https://benoitboidin.com">My portfolio, created with Hugo framework!</a>
+<a href="https://benoitboidin.com">My portfolio!</a>
 
-Tech stack : 
-
-<div>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" 
-        style="height:50px;box-shadow: 0px 0px 20px rgba(251, 66, 70, 0.3); boder-radius:10px;"
-        alt="Python"/>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZd37oUzVXPHOsl-Ygg5hzYpZs7Djvk-vSw&s" 
-        style="height:50px;box-shadow: 0px 0px 20px rgba(251, 66, 70, 0.3); boder-radius:10px;"
-        alt="Pandas"/>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTABCjpuMscLQRv3Qn612CuXy7wBF23Xs9AOQ&s" 
-        style="height:50px;box-shadow: 0px 0px 20px rgba(251, 66, 70, 0.3); boder-radius:10px;"
-        alt="PyTorch"/>
-        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" 
-        style="height:50px;box-shadow: 0px 0px 20px rgba(251, 66, 70, 0.3); boder-radius:10px;"
-        alt="Git"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" 
-        style="height:50px;box-shadow: 0px 0px 20px rgba(251, 66, 70, 0.3); boder-radius:10px;"
-        alt="SQL"/>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROGUxOHUM2cE5sfObDDVhD351uBOwkZ-OcEw&s" 
-        style="height:50px;box-shadow: 0px 0px 20px rgba(251, 66, 70, 0.3); boder-radius:10px;"
-        alt="OpenVINO"/>
-        <br>
-        And more (always learning) !
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-laptop"><path d="M20 16V7a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v9m16 0H4m16 0 1.28 2.55a1 1 0 0 1-.9 1.45H3.62a1 1 0 0 1-.9-1.45L4 16"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-database"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M3 5V19A9 3 0 0 0 21 19V5"/><path d="M3 12A9 3 0 0 0 21 12"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-database"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M3 5V19A9 3 0 0 0 21 19V5"/><path d="M3 12A9 3 0 0 0 21 12"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-database"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M3 5V19A9 3 0 0 0 21 19V5"/><path d="M3 12A9 3 0 0 0 21 12"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-cctv"><path d="M16.75 12h3.632a1 1 0 0 1 .894 1.447l-2.034 4.069a1 1 0 0 1-1.708.134l-2.124-2.97"/><path d="M17.106 9.053a1 1 0 0 1 .447 1.341l-3.106 6.211a1 1 0 0 1-1.342.447L3.61 12.3a2.92 2.92 0 0 1-1.3-3.91L3.69 5.6a2.92 2.92 0 0 1 3.92-1.3z"/><path d="M2 19h3.76a2 2 0 0 0 1.8-1.1L9 15"/><path d="M2 21v-4"/><path d="M7 9h.01"/></svg>
