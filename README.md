@@ -1,10 +1,10 @@
-# Junior ML developer
+# Junior AI developer
 
-Avec une LICENCE de statistiques et un MASTER d'informatique, je possède une combinaison unique d'aptitudes.
-En parallèle de mon master, j'ai travaillé (job étudiant) dans un laboratoire (LaBRI) sur les techniques de traitement du langage naturel.
-Pendant mon stage de cinq mois, j'ai élaboré une pipeline de vision par ordinateur à partir de zéro. 
-Je maîtrise Python (PyTorch, TensorFlow, FiftyOne, YAKE...), SQL, et bien d'autres. Je m'intéresse également au self hosting. 
-Let's connect! 
+With a Bachelor's degree in Statistics and a Master's in Computer Science, I possess a unique combination of skills.
+Alongside my master's, I worked (student job) in a laboratory (LaBRI) on natural language processing techniques.
+During my five-month internship, I developed a computer vision pipeline from scratch.
+I am proficient in Python (PyTorch, TensorFlow, FiftyOne, YAKE...), SQL, and many more. I am also interested in self-hosting.
+Let's connect!
 
 <p align="left">
         <a href="https://www.malt.fr/profile/benoitboidin" title="Si vous avez besoin d'aide pour créer une mission, contactez-moi !">
