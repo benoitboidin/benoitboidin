@@ -7,7 +7,7 @@ I am proficient in Python (PyTorch, TensorFlow, FiftyOne, YAKE...), SQL, and man
 Let's connect!
 
 <p align="left">
-        <a href="https://www.malt.fr/profile/benoitboidin" title="Si vous avez besoin d'aide pour créer une mission, contactez-moi !">
+        <a href="https://www.malt.fr/profile/benoitboidin" title="Reach out if you need help setting up a freelance mission !">
             <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/57/44/e757440c-56dc-7a83-d983-5ca1b432b390/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/1200x630wa.png" 
             style="height:50px; box-shadow: 0px 0px 20px rgba(251, 66, 70, 0.3); border-radius:10px;"
             alt="Link to Malt platform"/>
