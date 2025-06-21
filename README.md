@@ -1,10 +1,10 @@
 # Junior AI developer
 
-With a Bachelor's degree in Statistics and a Master's in Computer Science, I possess a unique combination of skills.
-Alongside my master's, I worked (student job) in a laboratory (LaBRI) on natural language processing techniques.
-During my five-month internship, I developed a computer vision pipeline from scratch.
-I am proficient in Python (PyTorch, TensorFlow, FiftyOne, YAKE...), SQL, and many more. I am also interested in self-hosting.
-Let's connect!
+Welcome to my GitHub profile!  
+
+I am a Data Scientist with a Master's in Computer Science from Bordeaux and a Bachelor's in Computer Science & Mathematics from Lyon.
+
+My experience includes roles at **Simon Kucher**, **MaxSea International**, and **CNRS LaBRI**, where I have worked on AI development, computer vision, and NLP projects.
 
 <p align="left">
         <a href="https://www.malt.fr/profile/benoitboidin" title="Reach out if you need help setting up a freelance mission !">
@@ -19,8 +19,6 @@ Let's connect!
         </a>
     
 </p>
-
-<a href="https://benoitboidin.com">My portfolio!</a>
 
 <a href="https://booking-ai-agent.onrender.com/">A booking AI agent</a>
 
