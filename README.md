@@ -1,5 +1,7 @@
 # Junior AI developer
 
+> “The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.”
+
 Welcome to my GitHub profile!  
 
 I am a Data Scientist with a Master's in Computer Science from Bordeaux and a Bachelor's in Computer Science & Mathematics from Lyon.
