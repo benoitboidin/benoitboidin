@@ -22,7 +22,7 @@ My experience includes roles at **Simon Kucher**, **MaxSea International**, and 
     
 </p>
 
-Here is a cool porject: <a href="https://booking-ai-agent.onrender.com/">A booking AI agent</a>
+Here is a cool project: <a href="https://booking-ai-agent.onrender.com/">A booking AI agent</a>
 
 Here is my website: <a href="https://benoitboidin.com">benoitboidin.com</a>
 
